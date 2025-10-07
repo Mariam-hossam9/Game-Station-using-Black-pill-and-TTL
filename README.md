@@ -1,0 +1,2 @@
+# Game Station using Black pill and TTL
+A collection of three mini-games running on a Black Pill (STM32F103) board, displayed on a TFT screen and controlled via hardware switches. Game selection is made through TTL serial communication.  Three interactive games implemented on the Black Pill STM32 board with TFT display output and switch-based controls. Games are selected over a TTL serial interface.  Embedded gaming system featuring three playable games on a TFT display, controlled by switches and selected via TTL communication on the Black Pill board.
