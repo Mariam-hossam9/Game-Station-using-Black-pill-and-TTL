@@ -80,9 +80,9 @@ The desired game is selected by sending a **character command (L, M, or S)** ove
 - **Display Driver:** SPI-based TFT (ST7735 / ILI9341 compatible)
 
 ---
-
-## 📹 Demo Video
-
-```markdown
 ## 🎥 Demo Video
-<video src="media/Demo.mp4" controls></video>
+
+Click below to watch the gameplay demo of the three games (LED Memory, Math Quiz, and Snake):
+
+🎮 [▶️ Watch Demo (MP4)](media/Demo.mp4)
+
